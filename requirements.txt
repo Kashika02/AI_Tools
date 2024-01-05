@@ -1,0 +1,8 @@
+streamlit
+#openai
+python-dotenv
+diffusers
+transformers 
+scipy 
+ftfy 
+accelerate
